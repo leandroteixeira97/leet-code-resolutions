@@ -1,4 +1,5 @@
-**/idea/
-**/idea/*
-out/
-out/*
+/.idea/.gitignore
+/.idea/algorithms.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml

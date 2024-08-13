@@ -16,6 +16,8 @@ public class MergeTwoSortedLists {
         ListNode list2 = new ListNode(1, new ListNode(3, new ListNode(5)));
 
         ListNode list3 = mergeTwoSortedLists.mergeTwoLists(list1, list2);
+
+        System.out.println(list3);
     }
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
